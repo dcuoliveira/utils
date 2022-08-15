@@ -2,7 +2,7 @@
 screen python3 run.py
 
 # unix command to get out of the screen run
-# ctrl + shift + D
+# ctrl + A + D
 
 # linux command to get out of the screen run
 # ctrl + D
