@@ -9,3 +9,6 @@ screen python3 run.py
 
 # reconnect 
 sreen -r
+
+# quit available session
+creen -X -S [session number] quit
